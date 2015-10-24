@@ -1,0 +1,16 @@
+{
+  "name": "SampleApp",
+  "productName": "Sample Electron Angular Typescript",
+  "identifier": "com.example.sampleapp",
+  "description": "Modified version of Electron Boilerplate",
+  "version": "0.0.0",
+  "author": "adjeteyadjei@live.com",
+  "main": "main.js",
+  "config": {
+    "target": "development"
+  },
+  "dependencies": {
+    "fs-jetpack": "^0.6.5",
+    "sweetalert": "^1.1.0"
+  }
+}
